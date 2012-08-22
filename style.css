@@ -1,0 +1,27 @@
+.clickable_row {
+text-decoration: none;
+color: #333;
+cursor: pointer;
+}
+
+.clickable_row:hover {
+text-decoration: none;
+color: #333;
+underline: none;
+}
+
+a {
+color: #333;
+text-color: #333;
+text-decoration: none;
+underline: none;
+}
+
+a:hover {
+text-decoration: none;
+text-color: #333;
+underline: none;
+}
+.flt {
+height: 28px;
+}
