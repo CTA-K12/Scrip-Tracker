@@ -128,7 +128,7 @@ function AddGrid(id)
 			if(f==undefined || f["col_"+i]==undefined || f["col_"+i]=="none") 
 			{
 				var inptype;
-				(f==undefined || f["col_"+i]==undefined) ? inptype="text" : inptype="hidden";//show/hide input	
+				(f==undefined || f["col_"+i]==undefined) ? inptype="search-query" : inptype="hidden";//show/hide input	
 				var inp = createElm( "input",["id","flt"+i+"_"+id],["type",inptype],["class",inpclass] );					
 				inp.className = inpclass;// for ie<=6
 				fltcell.appendChild(inp);

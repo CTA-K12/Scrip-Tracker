@@ -127,7 +127,7 @@ function DoNav(theUrl)
 <div class="row">
 	<div class="span12">
 		<p>
-		<h1>Gresham Golf Course</h1>
+		<h1>Golf Course</h1>
 		</p>
 	</div>
 </div>
@@ -245,7 +245,7 @@ echo "Email: &nbsp$email<br>";
 
 </div>
 
-<div class="container span7 well">
+<div class="container span7">
 
 <table class="table table-bordered table-striped">
 
@@ -257,7 +257,6 @@ echo "Email: &nbsp$email<br>";
 
 <tr>
 	<th colspan="5"><a href="#newTransaction" class="btn btn-large" data-toggle="modal" >New Transaction</a>
-<h3 style="float:right;">Click on a row to edit</h3>
  </th>
 
 	

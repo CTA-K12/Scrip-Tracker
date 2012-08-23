@@ -114,7 +114,7 @@ function DoNav(theUrl)
 <div class="row">
 	<div class="span12">
 		<p>
-		<h1>Gresham Golf Course</h1>
+		<h1>Golf Course</h1>
 		</p>
 	</div>
 </div>
